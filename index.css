@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Crimson Text", serif;
+}
+
+body {
+    min-height: 100vh;
+    /* background: #dbfce0; */
+    background: #012206;
+
+}
+
+.carousel-item {
+    min-height: 100vh;
+    
+    /* min-height: 350px; */
+    width: 100%;
+    overflow: hidden;
+    background: no-repeat center center scroll;
+    background-size: cover;
+
+
+  }
+  
+  .navbar
+  {
+    background: #012206;
+    text-transform: uppercase;
+     color: #3b7c0f;
+      text-decoration: none;
+      font-size: 1em;
+      letter-spacing: 2px;
+    
+  }
+  img {
+    float: left;
+    width:  750px;
+    height: 500px;
+    object-fit: cover;
+}
+
+header ul li a.active:active {
+    background-color: #3b7c0f;
+}
+  
+  .ml-auto
+  {
+    
+    margin-left: auto;
+  }
+  
+  .container ul li a {
+    
+      padding: 6px;
+      color: #3b7c0f;
+      border-radius: 20px;
+  }
+  
+   nav ul li a:hover, header ul li a.active:active {
+      background: #1d4204;
+      color: #fff;
+      border-radius: 20px;
+  } 
+
+  .carousel-item {
+    top: 10px;
+    height: 32rem;
+    color: rgb(0, 0, 0);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+  }
+ /* .slider.carousel-inner{
+     min-height: 100vh;
+    overflow: hidden;
+    background: no-repeat center center scroll;
+    background-size: cover;
+
+} 
+/*
+
+.carousel-item {
+    top: 90px;
+    height: 32rem;
+    color: rgb(0, 0, 0);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+/*
+.container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+}
+
+header .logo {
+    color: #3b7c0f;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+header ul li a {
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #3b7c0f;
+    border-radius: 20px;
+}
+
+header ul li a:hover, header ul li a.active {
+    background: #3b7c0f;
+    color: #fff;
+}  */
+
+
