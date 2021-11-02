@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Soya Milk",
+            "image": "data:image/jpeg;base64,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",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "cream",
+            "image": "./images/products/headphone/headphone2.jpeg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Oat Milk",
+            "image": "https://images.unsplash.com/photo-1601436423474-51738541c1b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1pbGt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Hemp Milk",
+            "image": "./images/products/iphone/iphone4.jpeg",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "slik milk",
+            "image": "./images/products/headphone/headphone3.jpeg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "salad",
+            "image": "./images/products/headphone/headphone4.jpeg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Cashew Milk",
+            "image": "./images/products/iphone/iphone5.jpeg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "sudhi",
+            "image": "./images/products/headphone/headphone6.jpeg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Rice Milk",
+            "image": "./images/products/iphone/iphone6.jpeg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "milk",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "salad",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "mush",
+            "image": "./images/products/headphone/headphone5.jpeg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "cake",
+            "image": "./images/products/headphone/headphone8.jpeg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "pop",
+            "image": "./images/products/sumsung/samsung6.jpeg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "soda",
+            "image": "./images/products/sumsung/samsung5.jpeg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Coconut Milk",
+            "image": "./images/products/iphone/iphone1.jpeg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "peach milk",
+            "image": "./images/products/headphone/headphone9.jpeg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "sacuse",
+            "image": "./images/products/sumsung/samsung4.jpeg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "meat",
+            "image": "./images/products/headphone/headphone10.jpeg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "tofu",
+            "image": "./images/products/headphone/headphone1.jpeg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "tika",
+            "image": "./images/products/sumsung/samsung2.jpeg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "ches",
+            "image": "./images/products/headphone/headphone11.jpeg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "",
+            "image": "./images/products/sumsung/samsung1.jpeg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "",
+            "image": "./images/products/sumsung/samsung3.jpeg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "",
+            "image": "./images/products/headphone/headphone12.jpeg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
