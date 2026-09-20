@@ -20,10 +20,14 @@ import streamlit as st
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
-# Looks for a .env in this folder first, falls back to ../scripts/.env
-load_dotenv()
-load_dotenv(dotenv_path="../scripts/.env")
-DATABASE_URL = os.environ["DATABASE_URL"]
+# On Streamlit Cloud, the connection string comes from st.secrets (set in the
+# app's "Secrets" settings). Locally, it falls back to a .env file.
+if "DATABASE_URL" in st.secrets:
+    DATABASE_URL = st.secrets["DATABASE_URL"]
+else:
+    load_dotenv()
+    load_dotenv(dotenv_path="../scripts/.env")
+    DATABASE_URL = os.environ["DATABASE_URL"]
 
 st.set_page_config(page_title="Wholevegan.co Analytics", layout="wide")
 
