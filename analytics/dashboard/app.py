@@ -1,5 +1,5 @@
 """
-Wholevegan.co — Sales Analytics Dashboard
+Wholevegan.co - Sales Analytics Dashboard
 
 Queries the `analytics` schema built by dbt (dim_customers, dim_products,
 fct_orders, fct_order_items) — never the raw public schema tables directly.
