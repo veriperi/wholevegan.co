@@ -2,7 +2,7 @@
 Wholevegan.co - Sales Analytics Dashboard
 
 Queries the `analytics` schema built by dbt (dim_customers, dim_products,
-fct_orders, fct_order_items) — never the raw public schema tables directly.
+fct_orders, fct_order_items) - never the raw public schema tables directly.
 
 Setup:
     Copy your .env (with DATABASE_URL=...) into this folder, or point
