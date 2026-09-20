@@ -1,0 +1,301 @@
+customer_id,name,region,signup_date,segment,acquisition_channel
+1,Jay Ramirez,Indiana,2026-07-29,occasional,google_ads
+2,Brandon Davis,Minnesota,2026-07-13,one_time,google_ads
+3,Andrew Stevens,Delaware,2026-05-12,loyal,email
+4,Juan Calderon,South Carolina,2026-09-13,occasional,organic
+5,Laura Bush,Arizona,2026-08-29,one_time,google_ads
+6,Dylan Miller,Iowa,2026-06-03,one_time,instagram_ads
+7,Donald Reid,Mississippi,2026-08-22,occasional,organic
+8,Daniel Adams,Utah,2025-11-22,one_time,google_ads
+9,Mark Ferguson,Kansas,2026-05-29,one_time,referral
+10,Devin Schaefer,Vermont,2025-11-22,occasional,instagram_ads
+11,Frederick Tate,Arkansas,2026-04-24,occasional,instagram_ads
+12,Renee Morales,California,2025-12-17,occasional,referral
+13,Latoya Robbins,Indiana,2025-12-10,one_time,referral
+14,Dr. Marvin Thomas Jr.,West Virginia,2026-06-01,occasional,organic
+15,Nicole Patterson,Pennsylvania,2026-04-26,loyal,google_ads
+16,Zachary Taylor,New York,2026-02-22,one_time,google_ads
+17,Shannon Hernandez,Hawaii,2025-10-25,occasional,instagram_ads
+18,Linda Cruz,Rhode Island,2026-07-24,one_time,organic
+19,Tricia Valencia,Alabama,2026-03-20,loyal,email
+20,Melanie Herrera,Louisiana,2026-06-11,one_time,referral
+21,Ashley Graham,New Jersey,2026-07-15,one_time,instagram_ads
+22,Sherri Baker,North Carolina,2025-09-21,occasional,referral
+23,Thomas Harrell,Maryland,2026-07-12,occasional,referral
+24,Lisa Hernandez,Wisconsin,2026-08-12,one_time,email
+25,Paula Moreno,Alabama,2025-11-21,one_time,referral
+26,Alec Hickman,Maryland,2026-05-10,one_time,instagram_ads
+27,Shawn Arroyo,Colorado,2025-12-21,one_time,email
+28,Mr. Philip Cannon,Florida,2026-07-01,one_time,google_ads
+29,Joshua Baker,Rhode Island,2026-06-03,occasional,referral
+30,Tanya Campos,Vermont,2026-03-03,occasional,instagram_ads
+31,Jennifer Powers,Mississippi,2025-12-07,occasional,google_ads
+32,Jocelyn Wright,California,2026-03-09,loyal,referral
+33,Julian Chapman,Alabama,2026-01-29,occasional,instagram_ads
+34,Amy Jones,Arizona,2025-10-17,loyal,organic
+35,Jose Ramirez,New York,2026-08-19,occasional,organic
+36,Miranda Khan,Oregon,2025-12-12,one_time,organic
+37,John Russell,Connecticut,2026-03-22,occasional,google_ads
+38,Heather Jenkins,Washington,2025-10-27,occasional,instagram_ads
+39,Victoria Garcia,Montana,2025-10-11,occasional,referral
+40,Scott Wright,Illinois,2026-06-29,occasional,instagram_ads
+41,Javier Ramirez,Kansas,2026-04-16,one_time,email
+42,Jessica Callahan,Oklahoma,2026-08-25,occasional,organic
+43,Zachary Huff,Colorado,2025-10-28,occasional,google_ads
+44,Cynthia Russell,New Mexico,2026-09-14,occasional,email
+45,Stephanie Martin,Alabama,2025-12-12,one_time,organic
+46,Richard Gibson,Nevada,2026-02-18,occasional,organic
+47,Whitney Peters,Virginia,2026-06-17,loyal,google_ads
+48,Edward Novak,Pennsylvania,2026-03-28,one_time,organic
+49,Nicole Brown,Pennsylvania,2026-07-02,occasional,instagram_ads
+50,Sarah Moore,North Carolina,2026-03-24,occasional,instagram_ads
+51,Andrea Jones,Kansas,2025-10-21,occasional,google_ads
+52,Steve Sanchez,Rhode Island,2026-02-23,occasional,organic
+53,Jennifer Silva,North Dakota,2025-10-05,occasional,referral
+54,Christina Moran,Kansas,2026-01-20,loyal,referral
+55,Michael Evans,Massachusetts,2026-01-01,one_time,organic
+56,Angel Ellis,Oregon,2026-09-15,one_time,instagram_ads
+57,Daniel Baker,Minnesota,2025-10-28,occasional,email
+58,David Mitchell,New Hampshire,2026-08-28,occasional,email
+59,Elizabeth Riggs,Tennessee,2026-08-09,one_time,instagram_ads
+60,Robert Evans,Texas,2026-04-13,occasional,email
+61,Brandy Wilson,Connecticut,2025-10-30,occasional,email
+62,Denise Jacobs,Virginia,2026-07-05,occasional,referral
+63,Mark Baker,New York,2026-01-31,occasional,email
+64,Sarah Davis,Nevada,2025-12-26,occasional,google_ads
+65,Aaron Wise,South Dakota,2026-08-08,occasional,organic
+66,Jeremy Thornton,Oklahoma,2025-12-30,occasional,referral
+67,Tony Vazquez,Georgia,2025-09-23,loyal,google_ads
+68,Jacob Tran,Nevada,2026-04-19,loyal,referral
+69,Jacob Fitzpatrick,Arizona,2025-11-08,occasional,referral
+70,Michael Estrada,Minnesota,2026-09-04,occasional,referral
+71,Shelly Dickson,West Virginia,2026-07-19,loyal,instagram_ads
+72,Cynthia Martin,Idaho,2025-11-19,loyal,organic
+73,Christopher Middleton,Nebraska,2026-08-28,occasional,instagram_ads
+74,Nancy Wright,Hawaii,2026-07-28,occasional,referral
+75,Janet Williams,New Mexico,2026-07-22,occasional,referral
+76,Thomas Bailey,Iowa,2025-12-15,loyal,organic
+77,Corey Murphy,California,2025-12-15,occasional,referral
+78,Martin Ross,Ohio,2026-07-17,occasional,google_ads
+79,Ashley Waller,Idaho,2026-01-26,one_time,instagram_ads
+80,Deborah Rodriguez,Nevada,2026-05-03,occasional,google_ads
+81,Emily Obrien,North Carolina,2026-02-01,occasional,email
+82,Kenneth Scott,Virginia,2025-11-03,loyal,google_ads
+83,Timothy Ryan,Washington,2026-03-08,occasional,organic
+84,Christina Reynolds,Texas,2026-07-05,loyal,referral
+85,Erik Charles,Washington,2026-09-12,one_time,organic
+86,Eric Ortiz,Montana,2026-09-04,loyal,instagram_ads
+87,Cameron Fisher,Missouri,2026-06-17,occasional,instagram_ads
+88,Carrie Carroll,Montana,2026-06-10,one_time,organic
+89,Elizabeth Clark,Pennsylvania,2026-04-20,one_time,google_ads
+90,Julie Ramos,Indiana,2026-05-13,occasional,email
+91,Steven Flynn,Hawaii,2026-04-06,one_time,google_ads
+92,Jose Schultz,Michigan,2026-06-02,occasional,referral
+93,Nicole Chambers,Iowa,2025-10-26,loyal,referral
+94,Alexander Sanchez,New Mexico,2026-07-30,occasional,organic
+95,Angel Perry,South Dakota,2026-05-15,one_time,instagram_ads
+96,Michael Snyder,Kansas,2026-05-01,occasional,organic
+97,Abigail Potter,Wyoming,2025-11-16,one_time,instagram_ads
+98,Jeffery Thompson,Vermont,2026-08-29,occasional,referral
+99,Justin Lowery,Delaware,2026-04-09,occasional,google_ads
+100,John Schmidt,Oklahoma,2026-03-16,occasional,google_ads
+101,Pedro Ramos,Washington,2026-05-09,occasional,google_ads
+102,Sandra Kelley,Hawaii,2026-09-01,one_time,organic
+103,Joanna Walton,South Dakota,2026-07-05,loyal,email
+104,Kelly Sims,Louisiana,2026-01-05,one_time,organic
+105,Dustin Nelson,Massachusetts,2026-03-09,loyal,instagram_ads
+106,Brenda Hall,Vermont,2026-09-01,occasional,google_ads
+107,Amy Russell,Ohio,2025-11-18,occasional,email
+108,Daniel Fisher,Wyoming,2026-03-19,occasional,email
+109,Alicia Gilmore,Oregon,2026-05-04,occasional,organic
+110,Tommy Evans,Missouri,2026-02-14,loyal,instagram_ads
+111,Sara Medina,West Virginia,2026-08-17,occasional,google_ads
+112,Stephanie Freeman,Louisiana,2026-04-20,occasional,instagram_ads
+113,Mr. Michael Yates,Washington,2026-03-08,occasional,organic
+114,Tamara Hooper,Ohio,2025-11-23,occasional,organic
+115,Leslie Alvarado,Colorado,2025-09-30,one_time,instagram_ads
+116,Sean White,Kentucky,2026-05-27,occasional,organic
+117,Jesse Rogers,Missouri,2026-02-14,occasional,referral
+118,Sandra King,Colorado,2026-01-06,one_time,email
+119,Joshua Cooke,Minnesota,2026-03-21,one_time,instagram_ads
+120,Rachael Pearson,Wisconsin,2025-12-16,one_time,instagram_ads
+121,Christina Smith,Georgia,2025-10-02,one_time,instagram_ads
+122,Michael Elliott,Indiana,2025-12-21,one_time,organic
+123,Pamela Jackson,Rhode Island,2026-03-19,occasional,google_ads
+124,Paula Martin,Maryland,2026-07-07,one_time,email
+125,Tanya Johnston,Missouri,2025-10-31,one_time,instagram_ads
+126,Christina Vargas,South Dakota,2026-02-21,occasional,organic
+127,Raymond Jefferson,Rhode Island,2025-12-23,occasional,organic
+128,William Patton,Minnesota,2026-07-29,one_time,instagram_ads
+129,Jacob Hunter,Michigan,2026-04-14,occasional,email
+130,Samantha Garcia,Mississippi,2025-09-24,occasional,instagram_ads
+131,Julia Hernandez,Idaho,2026-05-24,occasional,instagram_ads
+132,Marie Gilbert,Ohio,2026-07-01,occasional,google_ads
+133,Mr. Nicholas Adams,Kansas,2026-07-17,one_time,google_ads
+134,Diana Hayes,Wisconsin,2026-08-08,occasional,referral
+135,Mary Rogers,New York,2026-03-19,occasional,referral
+136,John Kelly,Kentucky,2026-08-16,occasional,organic
+137,Kyle Beard,Oklahoma,2026-01-30,loyal,google_ads
+138,Cheryl Allen,Nebraska,2025-09-23,occasional,google_ads
+139,Cynthia Alvarez,Virginia,2026-03-28,loyal,referral
+140,Alan Phillips,Montana,2026-03-29,occasional,google_ads
+141,Matthew Wood,Oklahoma,2026-06-15,occasional,referral
+142,Zachary Pierce,Minnesota,2026-04-14,loyal,referral
+143,Eric Hall,Washington,2026-06-19,occasional,organic
+144,Patrick Tapia,Vermont,2025-12-03,one_time,organic
+145,Parker Hill,Pennsylvania,2025-11-30,occasional,referral
+146,Diane Garcia,Illinois,2026-07-12,occasional,instagram_ads
+147,Christopher Smith,Ohio,2026-01-13,occasional,organic
+148,William Tran,Vermont,2025-11-08,one_time,google_ads
+149,Nicole Garcia,Alabama,2025-11-08,occasional,organic
+150,John Peterson,Arkansas,2026-04-30,one_time,google_ads
+151,Karen Short,Montana,2025-12-27,occasional,email
+152,Mark Brown,Georgia,2026-03-29,occasional,google_ads
+153,Elizabeth Mcknight,Delaware,2026-08-01,occasional,instagram_ads
+154,Lisa Gibbs,Iowa,2026-04-24,occasional,email
+155,Joanna Ramos,Pennsylvania,2026-07-18,occasional,instagram_ads
+156,Marc Lynch,West Virginia,2026-03-05,occasional,google_ads
+157,Christine Clark,Texas,2025-10-28,occasional,organic
+158,Christopher Jones,Alabama,2025-10-21,occasional,instagram_ads
+159,Kirk Carter,Iowa,2026-02-25,occasional,referral
+160,Michele Gibson,Utah,2026-01-09,occasional,google_ads
+161,Rachel Weber,Texas,2025-12-19,occasional,email
+162,Jessica Stephens,Tennessee,2026-07-29,occasional,referral
+163,Samantha Jones,Hawaii,2025-11-16,occasional,instagram_ads
+164,Paul Carroll,Maine,2026-07-24,occasional,google_ads
+165,Michael Lyons,Louisiana,2026-03-09,occasional,referral
+166,Jessica George,Nevada,2026-04-02,occasional,instagram_ads
+167,David Davis,Utah,2026-07-02,occasional,instagram_ads
+168,Laurie Smith,Wisconsin,2026-08-10,one_time,instagram_ads
+169,Laura Hines,Idaho,2026-06-08,loyal,instagram_ads
+170,Jessica Ramirez,Pennsylvania,2026-03-21,one_time,referral
+171,Katherine Davis,Minnesota,2026-03-08,one_time,organic
+172,Michael Hodge,Michigan,2026-02-25,occasional,referral
+173,Donna Landry,Wisconsin,2026-02-26,occasional,email
+174,Brandon King,Delaware,2026-04-21,occasional,instagram_ads
+175,Jose Travis,Texas,2026-07-17,loyal,organic
+176,Jennifer Lopez,Mississippi,2026-08-23,one_time,organic
+177,Lori Wolf,Indiana,2026-05-19,one_time,instagram_ads
+178,Tanya Kim,Vermont,2026-01-01,occasional,referral
+179,William Lynch,Kansas,2026-03-27,occasional,referral
+180,Juan Tran,Colorado,2026-06-22,occasional,organic
+181,Susan Murray MD,Georgia,2025-12-16,occasional,email
+182,Dorothy Thornton,Nebraska,2026-04-01,occasional,referral
+183,Mr. Jesus Thomas,Illinois,2026-08-10,occasional,email
+184,Nicole Taylor,California,2026-09-13,occasional,referral
+185,Sarah Morgan,North Carolina,2026-01-05,occasional,referral
+186,Diane Evans,Pennsylvania,2026-01-01,occasional,instagram_ads
+187,Mrs. Brittany Ryan MD,Oklahoma,2026-05-03,one_time,email
+188,Jordan Morris,Illinois,2026-07-13,occasional,instagram_ads
+189,James Chase,Nebraska,2026-06-17,one_time,google_ads
+190,John Mcintyre,Missouri,2025-10-06,one_time,referral
+191,Rebecca Pearson MD,Arizona,2026-02-16,occasional,instagram_ads
+192,Leslie Kane,New Hampshire,2025-11-08,occasional,organic
+193,Joyce Bowen,Nebraska,2025-10-28,one_time,instagram_ads
+194,Brittany Harrison,Kentucky,2026-08-24,occasional,google_ads
+195,Jennifer Miller,Michigan,2026-01-29,one_time,organic
+196,Kimberly Finley,South Dakota,2026-08-17,loyal,instagram_ads
+197,Katherine Weaver,South Carolina,2026-06-26,occasional,instagram_ads
+198,Michael Mitchell,Iowa,2025-10-16,one_time,organic
+199,William Hodges,Virginia,2026-07-07,occasional,google_ads
+200,Christopher Evans,Alaska,2026-08-24,occasional,email
+201,Anthony Howard,Nevada,2025-10-07,loyal,email
+202,Jason Maldonado,Idaho,2025-11-15,occasional,referral
+203,Leon Reyes,Utah,2025-11-25,one_time,organic
+204,Mr. David Little MD,Texas,2025-12-22,one_time,referral
+205,Julie Roberts,Ohio,2025-09-23,occasional,organic
+206,Tony Huerta,Maryland,2025-11-20,one_time,google_ads
+207,Melissa Bryant,Maryland,2026-05-26,one_time,email
+208,Dr. Ashley James MD,Maine,2025-12-06,occasional,referral
+209,William Barrett,Louisiana,2026-06-18,one_time,instagram_ads
+210,Melissa Garner,Arkansas,2025-09-23,occasional,google_ads
+211,Kathleen Strong,Maine,2026-09-08,occasional,organic
+212,Lisa Gomez,South Dakota,2026-07-18,occasional,email
+213,Megan Le,Texas,2025-12-02,one_time,email
+214,Lori Berger,Tennessee,2026-06-11,one_time,referral
+215,Jeremiah Riley,Washington,2025-10-05,occasional,email
+216,Edward Burgess,Idaho,2025-11-10,occasional,organic
+217,Joshua Mata,North Dakota,2025-12-06,loyal,email
+218,Sandra Scott,New Mexico,2026-04-02,loyal,email
+219,Seth Brock,New Jersey,2026-07-30,occasional,google_ads
+220,Vincent Dalton,Washington,2025-10-19,occasional,instagram_ads
+221,Tracy Ballard,Mississippi,2026-06-08,occasional,google_ads
+222,Alexis Herrera,New Jersey,2025-10-25,one_time,email
+223,Megan Richards,South Dakota,2026-02-10,occasional,email
+224,David Johnson,Oklahoma,2026-02-11,occasional,organic
+225,Connie Brown,New Jersey,2026-01-25,occasional,referral
+226,Marie Wilson,Arizona,2026-09-08,loyal,google_ads
+227,Johnathan Davis,Ohio,2025-10-04,occasional,organic
+228,Jacob Avery,Vermont,2025-11-11,one_time,organic
+229,Patrick Moore,Nebraska,2026-04-17,one_time,instagram_ads
+230,John Russell,Louisiana,2026-06-01,occasional,organic
+231,Claudia Wallace,Kansas,2025-10-02,occasional,instagram_ads
+232,William Richardson,Tennessee,2026-08-18,loyal,organic
+233,Donald Donaldson,New Jersey,2026-02-06,occasional,instagram_ads
+234,Maria Harper,Alaska,2025-10-25,occasional,google_ads
+235,Dana Martinez,Oregon,2025-10-09,one_time,instagram_ads
+236,Phillip Clark,Indiana,2025-12-08,occasional,organic
+237,Erin Hernandez,Rhode Island,2026-08-01,one_time,instagram_ads
+238,William Huerta,Ohio,2025-09-21,one_time,organic
+239,Ashley Delacruz,Florida,2025-12-26,occasional,google_ads
+240,Richard Chapman,Alaska,2025-09-25,occasional,email
+241,Cameron Fisher,Delaware,2025-11-26,occasional,instagram_ads
+242,Jerome Cox,Pennsylvania,2026-07-06,loyal,instagram_ads
+243,Daniel Gilbert,Washington,2025-11-01,loyal,google_ads
+244,Mary Turner,Tennessee,2026-07-21,one_time,referral
+245,John Morales,Utah,2025-10-02,one_time,referral
+246,Theodore Jones Jr.,Rhode Island,2025-10-31,one_time,google_ads
+247,Donald Schultz,Oklahoma,2025-11-16,occasional,google_ads
+248,Zachary Schmidt,New Jersey,2026-06-23,loyal,google_ads
+249,Annette Miles,Tennessee,2026-04-04,loyal,email
+250,Kristen Glenn,Nevada,2026-05-30,one_time,organic
+251,Jennifer Wilcox,Montana,2026-03-14,occasional,google_ads
+252,Emily Edwards,Kentucky,2026-02-28,occasional,email
+253,Melissa Wells,Colorado,2026-02-12,one_time,email
+254,Jeffrey Garner,Mississippi,2026-08-09,occasional,referral
+255,Anthony Frye,Oklahoma,2026-08-01,one_time,google_ads
+256,Jennifer Russo,Wisconsin,2026-01-26,occasional,referral
+257,Michelle Schmitt,Rhode Island,2026-03-03,one_time,email
+258,Kenneth Lewis,Texas,2026-01-19,occasional,referral
+259,Brian Bruce,Mississippi,2026-03-26,occasional,instagram_ads
+260,Laura Aguirre,Oklahoma,2025-11-03,one_time,organic
+261,Lisa Day,Alaska,2026-07-15,occasional,email
+262,Sandra Adams,Idaho,2026-05-14,occasional,email
+263,Ellen Morgan,Alabama,2026-01-04,occasional,email
+264,Kylie Morales,Georgia,2025-11-29,occasional,email
+265,Amanda Reese,Indiana,2026-07-04,one_time,instagram_ads
+266,Glen Wood,Washington,2026-02-13,occasional,google_ads
+267,Latoya Miller,Arkansas,2026-01-23,one_time,google_ads
+268,Luke Craig,Louisiana,2025-11-19,occasional,referral
+269,Karla Ramos,Louisiana,2026-03-11,one_time,google_ads
+270,Ashley Jordan,Maine,2025-12-12,occasional,referral
+271,Katelyn Estrada,Arizona,2026-06-10,one_time,organic
+272,Kyle Smith,Maryland,2025-12-14,occasional,email
+273,Pamela Roberts,Delaware,2025-12-11,occasional,instagram_ads
+274,Jeffrey Anderson MD,Iowa,2025-09-23,occasional,email
+275,Mary Gomez,Montana,2026-04-02,occasional,organic
+276,Jessica Stevens,California,2026-08-20,loyal,instagram_ads
+277,Jeffrey Sullivan,South Dakota,2026-08-20,occasional,instagram_ads
+278,Jared Burch,Hawaii,2026-03-01,occasional,referral
+279,Julia Norris,Mississippi,2026-07-28,occasional,referral
+280,Brian Graham,Montana,2025-10-24,occasional,email
+281,Seth Reese,Iowa,2026-04-11,one_time,referral
+282,Angela Schultz,North Dakota,2026-01-27,occasional,email
+283,Ricardo Bell,Tennessee,2026-04-06,occasional,google_ads
+284,Brian Scott,Idaho,2026-08-02,occasional,instagram_ads
+285,Peter Jones,Wyoming,2026-05-11,occasional,referral
+286,Paul Wolf MD,Oregon,2026-05-21,one_time,instagram_ads
+287,Lori Lin,South Dakota,2026-05-27,occasional,email
+288,Barry Ramos,Maryland,2026-01-20,occasional,referral
+289,Anthony Romero,Maryland,2026-07-26,one_time,referral
+290,Anthony Decker,California,2026-03-18,occasional,organic
+291,Savannah Gilbert,North Carolina,2026-05-28,one_time,google_ads
+292,Julian Conner,Arizona,2026-02-16,occasional,instagram_ads
+293,Laura Lopez,Rhode Island,2026-03-13,occasional,referral
+294,Tina Hayes,Michigan,2026-03-23,loyal,organic
+295,Matthew Williams,Virginia,2026-06-24,one_time,referral
+296,Kelly Bishop MD,Maine,2026-03-09,occasional,instagram_ads
+297,George Harper,South Dakota,2026-02-17,occasional,email
+298,Gary Grant,Missouri,2026-05-29,loyal,organic
+299,Samuel Brandt,Rhode Island,2026-01-08,occasional,email
+300,Brad Alvarado,Minnesota,2026-08-25,occasional,google_ads

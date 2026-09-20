@@ -1,0 +1,6 @@
+analytics/venv/
+**/.env
+__pycache__/
+*.pyc
+.streamlit/
+analytics/logs/
