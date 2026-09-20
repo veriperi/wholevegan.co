@@ -47,10 +47,10 @@ Streamlit dashboard (deployed on Streamlit Community Cloud)
 
 ## Key findings from the dashboard
 
-- Total revenue: **[$47,949]**
-- Repeat customer rate: **[51.9]%**
-- Cart abandonment rate: **[13.2]%**, highest on the **[Google Ads]** channel
-- Top-selling product: **[Soy Cream]**
+- Total revenue: **$47,949**
+- Repeat customer rate: **51.9%**
+- Cart abandonment rate: **13.2%**, highest on the **Google Ads** channel
+- Top-selling product: **Soy Cream**
 - Retention drops fast in the first month (100% down to roughly 25–50%), then levels off in a noisy 10–60% range instead of continuing to decline. This fits the customer base, which is mostly occasional buyers rather than regulars.
 
 *(Screenshots below - or link directly to the live dashboard above.)*
