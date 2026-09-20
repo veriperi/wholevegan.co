@@ -42,7 +42,7 @@ def run_query(sql):
     return pd.read_sql(sql, get_engine())
 
 
-st.title("🥦 Wholevegan.co — Sales Analytics")
+st.title("🥦 Wholevegan.co : Sales Analytics")
 st.caption("Data modeled with dbt · staging → marts · tested with dbt tests")
 
 # ---------- KPI row ----------
