@@ -1,8 +1,8 @@
 """
-Wholevegan.co - Sales Analytics Dashboard
+Wholevegan.co — Sales Analytics Dashboard
 
 Queries the `analytics` schema built by dbt (dim_customers, dim_products,
-fct_orders, fct_order_items) - never the raw public schema tables directly.
+fct_orders, fct_order_items) — never the raw public schema tables directly.
 
 Setup:
     Copy your .env (with DATABASE_URL=...) into this folder, or point
@@ -21,10 +21,12 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
 # On Streamlit Cloud, the connection string comes from st.secrets (set in the
-# app's "Secrets" settings). Locally, it falls back to a .env file.
-if "DATABASE_URL" in st.secrets:
+# app's "Secrets" settings). Locally, there's no secrets.toml file at all,
+# which makes st.secrets raise rather than just being empty - so we catch that
+# and fall back to .env.
+try:
     DATABASE_URL = st.secrets["DATABASE_URL"]
-else:
+except (FileNotFoundError, KeyError, st.errors.StreamlitSecretNotFoundError):
     load_dotenv()
     load_dotenv(dotenv_path="../scripts/.env")
     DATABASE_URL = os.environ["DATABASE_URL"]
@@ -34,15 +36,26 @@ st.set_page_config(page_title="Wholevegan.co Analytics", layout="wide")
 
 @st.cache_resource
 def get_engine():
-    return create_engine(DATABASE_URL)
+    # pool_pre_ping checks a connection is alive before reusing it;
+    # pool_recycle forces connections to be refreshed periodically.
+    # Neither alone prevents a PendingRollbackError from a failed query
+    # left mid-transaction, so run_query() below also clears+retries on error.
+    return create_engine(DATABASE_URL, pool_pre_ping=True, pool_recycle=1800)
 
 
 @st.cache_data(ttl=600)
 def run_query(sql):
-    return pd.read_sql(sql, get_engine())
+    try:
+        return pd.read_sql(sql, get_engine())
+    except Exception:
+        # Most likely a stale/aborted connection left over from a schema
+        # rebuild (e.g. dbt run dropping and recreating views mid-query).
+        # Drop the cached engine and retry once with a fresh connection pool.
+        get_engine.clear()
+        return pd.read_sql(sql, get_engine())
 
 
-st.title("🥦 Wholevegan.co : Sales Analytics")
+st.title("🥦 Wholevegan.co { Sales Analytics }")
 st.caption("Data modeled with dbt · staging → marts · tested with dbt tests")
 
 # ---------- KPI row ----------
