@@ -1,9 +1,6 @@
-pandas
-numpy
-faker
-sqlalchemy
-psycopg2-binary
-python-dotenv
-streamlit
-plotly
-dbt-postgres
+   streamlit
+   pandas
+   plotly
+   sqlalchemy
+   psycopg[binary]
+   python-dotenv
